@@ -1,0 +1,10 @@
+ctrl + alt + l - format code
+ctrl + d - duplication line
+ctrl + shift + F10 - run psvm
+shift + F9 - run debug mode
+ctrl + shift + enter - create body + format code
+ctrl + shift + space - autocomplete type
+ctrl + shift + / - manyline comments
+ctrl + / - oneline comment
+alt + insert - creaty anything
+shift + F6 - rename anything
